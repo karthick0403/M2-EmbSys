@@ -119,7 +119,8 @@ current, past or outdated boards see the ARDUINO index of boards.
 ## NODEMCU ESP8266
 
 NodeMCU is a low-cost open source IoT platform. It initially included firmware which runs on the ESP8266 Wi-Fi SoC from Espressif Systems, and hardware which was based on the ESP-12 module. NodeMCU is an open source firmware for which open source prototyping board designs are available. The name "NodeMCU" combines "node" and "MCU" (micro-controller unit). The term "NodeMCU" strictly speaking refers to the firmware rather than the associated development kits. Both the firmware and prototyping board designs are open source.The firmware uses the Lua scripting language. The firmware is based on the eLua project, and built on the Espressif Non-OS SDK for ESP8266. It uses many open source projects, such as lua-cjsonand SPIFFS.Due to resource constraints, users need to select the modules relevant for their  project and build a firmware tailored to their needs. Support for the 32-bit ESP32 has also been implemented.The prototyping hardware typically used is a circuit board functioning as a dual in-line package (DIP) which  integrates  a USB controller with a smaller surface-mounted board containing the MCU and antenna. The choice of the DIP format allows for easy prototyping on breadboards. The design was initially based on the ESP-12 module of the ESP8266, which is a Wi-Fi SoC integrated with a Tensilica Xtensa LX106 core, widely used in IoT application
-![nodemcu-esp8266-wifi-iot-development-board-for-diy-electrobot-original-imafmktvdwuxbswp](https://user-images.githubusercontent.com/98890597/154842067-5ad5be2a-219d-42fc-9e7b-bae1e1f6fe12.jpeg
+![nodemcu-esp8266-wifi-iot-development-board-for-diy-electrobot-original-imafmktvdwuxbswp](https://user-images.githubusercontent.com/98890597/154842514-c05e57bc-76e7-47f7-b058-7708264d3293.jpeg)
+
 
 ## INTERNET OF THINGS
 
