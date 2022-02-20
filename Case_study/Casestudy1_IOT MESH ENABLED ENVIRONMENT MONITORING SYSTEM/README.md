@@ -30,22 +30,6 @@ _
 |3.7 |LIQUID CRYSTAL DISPLAY|
 |3.8| THINKSPEAK PLATFORM|
 
-
-## LIST OF FIGURES
-
-
-|FIGURE NO|	TITLE|
-|--|--|
-|4.1	|MAIN BLOCK DIAGRAM|
-|4.2	|ARDUINO UNO|	
-|4.3	|NODEMCU ESP8266|	
-|4.4	|MQ 135 AIR SENSOR|	
-|4.5	|SEED LOUDNESS SENSOR|	
-|4.6	|BME280 HUMIDITY SENSOR|	
-|4.7	|LIQUID CRYSTAL DISPLAY|	
-|4.8	|THINKSPEAK PLATFORM|	
-|4.9	|SNAPSHOT OF HARDWARE|
-
 ## ABSTRACT
 
  Internet of Things (IoT) is expected to play a major role in our lives through pervasive systems of sensor networks encompassing our environment. These systems are designed
