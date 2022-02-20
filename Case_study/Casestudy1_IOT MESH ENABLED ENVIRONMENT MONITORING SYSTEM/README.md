@@ -103,7 +103,6 @@ current, past or outdated boards see the ARDUINO index of boards.
 ## NODEMCU ESP8266
 
 NodeMCU is a low-cost open source IoT platform. It initially included firmware which runs on the ESP8266 Wi-Fi SoC from Espressif Systems, and hardware which was based on the ESP-12 module. NodeMCU is an open source firmware for which open source prototyping board designs are available. The name "NodeMCU" combines "node" and "MCU" (micro-controller unit). The term "NodeMCU" strictly speaking refers to the firmware rather than the associated development kits. Both the firmware and prototyping board designs are open source.The firmware uses the Lua scripting language. The firmware is based on the eLua project, and built on the Espressif Non-OS SDK for ESP8266. It uses many open source projects, such as lua-cjsonand SPIFFS.Due to resource constraints, users need to select the modules relevant for their  project and build a firmware tailored to their needs. Support for the 32-bit ESP32 has also been implemented.The prototyping hardware typically used is a circuit board functioning as a dual in-line package (DIP) which  integrates  a USB controller with a smaller surface-mounted board containing the MCU and antenna. The choice of the DIP format allows for easy prototyping on breadboards. The design was initially based on the ESP-12 module of the ESP8266, which is a Wi-Fi SoC integrated with a Tensilica Xtensa LX106 core, widely used in IoT application
-![nodemcu-esp8266-wifi-iot-development-board-for-diy-electrobot-original-imafmktvdwuxbswp](https://user-images.githubusercontent.com/98890597/154842514-c05e57bc-76e7-47f7-b058-7708264d3293.jpeg)
 
 
 ## INTERNET OF THINGS
@@ -123,9 +122,7 @@ It detects the attentiveness of gas in the air and an analog voltage is  an  out
 ## SEEED LOUDNESS SENSOR
 
  A sound sensor is defined as a module that detects sound waves through its intensity and converting it to electrical signals. Loudness Sensor is designed to detect the loudness of environmental sound. Sound sensors work by mimicking the human body process that involves the ears and signal transmission to the brain. Microphones are sound sensors that convert a sound signal into a voltage or current proportional to the detected signal. They typically have a small diaphragm made of magnets surrounded by coiled metal wire. Sound waves cause the diaphragm to vibrate, which vibrates the magnets and induces a  current in the coil. Based on amplifier LM2904 and a built-in microphone, it amplifies and filters the high frequency signal that received from the microphone, and outputs a positive envelop. This will make  for  Arduino’s  signal acquisition. The output value depends on the level of sound input. In  order to avoid unnecessary signal disturbances, input signal will go through two times’ filtering inside the module. Lastly, there is a screw potentiometer that enables manual adjustments to the output gain.These sensors can detect sound pressure waves that are not within the audible range, which makes them suitable for a wide range of tasks. For instance, high-frequency ultrasonic sound sensors are used to weld plastics, whereas low-frequency ultrasound sensors are used to inspect less dense materials, such as wood, concrete and cement. Such sensors are not affected by reflectivity, translucence or color, as is the case with light sensors.
- ![Loudness Sensor_new](https://user-images.githubusercontent.com/98890597/154842265-8d867385-5223-48f3-8192-595f53333280.jpg)
-
-
+ 
 ## BME280 HUMIDITY SENSOR
 
 BME280 is a digital pressure, humidity and temperature sensor.  This  module consists of extremely compact metal-lid LGA packages. Its low power consumption and small dimensions allow its implementation in battery-driven devices such as GPS, mobiles, and smart watches. It's working protocol is I2C and SPI, it is designed for both protocol, it has a separate pin out for I2C and SPI.BME280 is used in different industrial projects and electronic devices such as GPS, handsets, and watches. It provides high performance in all applications requiring humidity and pressure measurement. As it provides high performance in its applications like humidity and pressure measurement, due to this feature it used in emerging applications such as home automation, indoor navigation, health care, GPS and a low TCO. Its humidity sensing part provides a fast response time for fast context awareness applications and high accuracy over a wide temperature range. It pressure sensing part is absolute barometric pressure sensor having high accuracy, resolution and drastically lower noise than the Bosch Sensor BMP280. Its temperature sensing part has been optimized for lowest noise and high resolution. This sensor is available in both I2C and SPI interfaces and it can be supplied with 1.71 to 3.6 V for sensor supply Vdd and
@@ -138,41 +135,42 @@ LCD (Liquid Crystal Display) is a type of flat panel display which uses liquid c
 ## THINKSPEAK PLATFORM
 
 According to its developers, "ThingSpeak is an open-source Internet of Things (IoT) application and API to store and retrieve  data from things using  the HTTP and MQTT protocol over the Internet or via a Local Area Network. ThingSpeak enables the creation of sensor logging applications, location  tracking applications, and a social network of things with status updates". Storing data in the cloud provides easy access to your data. Using online analytical tools, you can explore and visualize data. You can discover relationships, patterns, and trends in data. You can calculate new data. And you can visualize it in plots, charts, and gauges. ThingSpeak provides access to MATLAB to help you make sense of data. We can:
-⦁	Convert, combine, and calculate new data
-⦁	Schedule calculations to run at certain times
-⦁	Visually understand relationships in data using built-in plotting functions
-⦁	Combine data from multiple channels to build a more sophisticated analysis
-ThingSpeak provides tools that enable device communication for all of these actions and more. We can:
-⦁	React to data—both raw data and new data that you calculate—as  it comes into a channel
-⦁	Queue up commands for a device to execute
+
+    ⦁	Convert, combine, and calculate new data
+    ⦁	Schedule calculations to run at certain times
+    ⦁	Visually understand relationships in data using built-in plotting function
+    ⦁	Combine data from multiple channels to build a more sophisticated analysis
+    ThingSpeak provides tools that enable device communication for all of these actions and more. We can:
+    ⦁	React to data—both raw data and new data that you calculate—as  it comes into a channel
+    ⦁	Queue up commands for a device to execute
 
 
 ## ADVANTAGES
 
-⦁	It has high sensitivity to smoke and harmful gases.
-⦁	It has high stability and long life.
-⦁	It is self sustained and consumes less power.
-⦁	It enable us to accurately monitor environmental pollution.
-⦁	Validation and verification of cleaning and sanitation programs.
+     ⦁	It has high sensitivity to smoke and harmful gases.
+     ⦁	It has high stability and long life.
+     ⦁	It is self sustained and consumes less power.
+     ⦁	It enable us to accurately monitor environmental pollution.
+     ⦁	Validation and verification of cleaning and sanitation programs.
 
 ## APPLICATIONS
 
-⦁	To check contaminant heights in traffic tunnel and airing shaft to check effectiveness.
-⦁	It can be placed in isolated places as well as self-sustained organization and the information can be measured and seen from anywhere.
-⦁	It can also be used for the conservation of forests and other environmental areas.
-⦁	Automatically judge clean level according to the requirement of GMP.
-⦁	It provides weather data from different locations in areas covered by mobile network.
-⦁	Weather information like temperature, humidity, rainfall, UV index and solar radiation s gathered simultaneously.
+    ⦁	To check contaminant heights in traffic tunnel and airing shaft to check effectiveness.
+    ⦁	It can be placed in isolated places as well as self-sustained organization and the information can be measured and seen from anywhere.
+    ⦁	It can also be used for the conservation of forests and other environmental areas.
+    ⦁	Automatically judge clean level according to the requirement of GMP.
+    ⦁	It provides weather data from different locations in areas covered by mobile network.
+    ⦁	Weather information like temperature, humidity, rainfall, UV index and solar radiation s gathered simultaneously.
 
 
 ## CONCLUSION
 
-Environmental monitoring results provide a basis for designing models that can be used to predict the future consequence of management actions. Monitoring results are also used to check and improves the model predictions time. Continued advances in the development, application, and automation of monitoring devices are needed to enhance the  accuracy and  cost-effectiveness of monitoring programs. It is critical to the protection of human health and the environment. Equally as important is the need to produce more scientists and engineers that have the knowledge and training required to successful develop and operate monitoring devices and manage monitoring devices.
+        Environmental monitoring results provide a basis for designing models that can be used to predict the future consequence of management actions. Monitoring results are also used to check and improves the model predictions time. Continued advances in the development, application, and automation of monitoring devices are needed to enhance the  accuracy and  cost-effectiveness of monitoring programs. It is critical to the protection of human health and the environment. Equally as important is the need to produce more scientists and engineers that have the knowledge and training required to successful develop and operate monitoring devices and manage monitoring devices.
 
 ## FUTURE SCOPE
-The need of extensive research on deep learning, handling big data  and  noisy data issues, and a framework of robust classification approaches has been realized. The major challenges in implementation of smart sensors, AI  and WSN need to be addressed for sustainable growth through Smart Environment Monitoring. The participation of environmental organizations, regulatory bodies and general awareness would strengthen Environmental monitoring efforts. The poor quality of sensory data can be preprocessed using appropriate filters and signal processing methods to make the data more suitable for all subsequent tasks associated in Environmental Monitoring. The future scope of the work aims at studying other factors of environment such as disasters etc
+      The need of extensive research on deep learning, handling big data  and  noisy data issues, and a framework of robust classification approaches has been realized. The major challenges in implementation of smart sensors, AI  and WSN need to be addressed for sustainable growth through Smart Environment Monitoring. The participation of environmental organizations, regulatory bodies and general awareness would strengthen Environmental monitoring efforts. The poor quality of sensory data can be preprocessed using appropriate filters and signal processing methods to make the data more suitable for all subsequent tasks associated in Environmental Monitoring. The future scope of the work aims at studying other factors of environment such as disasters etc
 
 ## REFERENCES
-⦁	Chaitra N, Bhavana S, Vilas Reddy D, Nikhil AS – “Iot Based  Air  Quality Monitoring System” - European Journal Of Molecular And Clinical Medicine - Volume 07, Issue: 08, 2020.
-⦁	Aarti Jaladi, Karshima Khithani, Pankaja Pawar – “Environmental Monitoring Using Wireless Sensor Networks (WSN) based on IOT” - International Reasearch Journal Of Engineering And Technology - Volume:04, Issue: 01, Jan -2017
+     ⦁	Chaitra N, Bhavana S, Vilas Reddy D, Nikhil AS – “Iot Based  Air  Quality Monitoring System” - European Journal Of Molecular And Clinical Medicine - Volume 07, Issue: 08, 2020.
+    ⦁	Aarti Jaladi, Karshima Khithani, Pankaja Pawar – “Environmental Monitoring Using Wireless Sensor Networks (WSN) based on IOT” - International Reasearch Journal Of Engineering And Technology - Volume:04, Issue: 01, Jan -2017
 
