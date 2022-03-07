@@ -37,7 +37,7 @@ maintenance is very simple.
 
 # High Level    Requirements
 
-| HLR_01|Components|Description|
+| HLR|Components|Description|
 |--|--|--|
 |HLR_01|Arudino UNO|This microcontroller acts as a mini computer, coupled with built in functions to program and interface with GSM module and Color Sensor|
 |HLR_02|Bread board and jump wires|Bread board is used for connecting circuits without the need for wires and jumper wires help establish connection |
@@ -46,3 +46,17 @@ maintenance is very simple.
 |HLR_05|9V Battery with 2pc Connector|To provide the power supply for UV LED'S|
 |HLR_06|0.5W Speaker|To hear the Audio|
 |HLR_07|UV LEDs|For the identification of fake notes|
+
+# Lower Level Requirements
+|LLR|DESCRIPTION|
+|--|--|
+|LLR_01|The circuit is designed in such a way that the UV light falls on the currency note  and where the color sensor can detect the color of the currency note (i.e. The UV           light is placed below and the color sensoris at the top. The currency note is placedin between this setup|
+|LLLR_02|Then the code is uploaded into the board via USB cable connecting the PC and Board where the color sensor is connected in its digital port|
+|LLR_03|First the currency note is placed between the UV Led and the color sensor|
+|LLR_04|Now first, we keep the original note and record the RGB frequency. Repeat the same for a fake note of same denomination|
+|LLR_05|If we consider a 10 rupee note, the frequency read by the color sensor for a real note under UV light is different from the frequency of a fake note under the same.This          frequency is pre coded in the Arduino software by us so that if the particular frequency is detected, the audio message can be played accordingly|
+|LLR_06|Now we upload the main code of our project which contains the audio output part|
+|LLR_07|If it is a legit currency note, the UV light gets absorbed by it. Then the color of the note is identified by the color sensor and then the value of the currency note           is read out loud by the speaker|
+|LLR_08|If it is not a legit currency note then the UV light doesn't get absorbed and the speaker will read it as "Fake Note"|
+|LLR_09|The frequency values and the denominated values of the currency notes can also be seen in the serial monitor|
+|LLR_10|When there is a situation of possible theft the user can use the implemented GSM  module which will send an alert message and their real time location to their friends         or family|
