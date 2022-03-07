@@ -60,3 +60,6 @@ maintenance is very simple.
 |LLR_08|If it is not a legit currency note then the UV light doesn't get absorbed and the speaker will read it as "Fake Note"|
 |LLR_09|The frequency values and the denominated values of the currency notes can also be seen in the serial monitor|
 |LLR_10|When there is a situation of possible theft the user can use the implemented GSM  module which will send an alert message and their real time location to their friends         or family|
+
+# swot analysis
+![Screenshot (8)](https://user-images.githubusercontent.com/98890597/157069214-9f2d02fe-b8ce-4171-a700-f499ce378307.png)
