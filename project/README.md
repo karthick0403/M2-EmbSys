@@ -1,4 +1,6 @@
 # CURRENCY NOTE DETECTION FOR BLIND PEOPLE USING UV LIGHT AND MICROCONTROLLER WITH THEFT ALERT
+# Youtube output link
+https://youtu.be/2IQhoYMBPPk
 
 # Hardware simulation
 
