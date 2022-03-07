@@ -34,3 +34,5 @@ calculation of money spent per day and can be sent as SMS tomobile phones.
 🞄 Microcontrollers are optimized to perform a dedicated low-power application and
 ideal for embedded systems. Microcontroller projects are very easy touse and
 maintenance is very simple.
+
+#
