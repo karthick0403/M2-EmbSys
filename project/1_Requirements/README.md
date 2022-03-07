@@ -35,4 +35,14 @@ calculation of money spent per day and can be sent as SMS tomobile phones.
 ideal for embedded systems. Microcontroller projects are very easy touse and
 maintenance is very simple.
 
-#
+# High Level    Requirements
+
+| HLR_01|Components|Description|
+|--|--|--|
+|HLR_01|Arudino UNO|This microcontroller acts as a mini computer, coupled with built in functions to program and interface with GSM module and Color Sensor|
+|HLR_02|Bread board and jump wires|Bread board is used for connecting circuits without the need for wires and jumper wires help establish connection |
+|HLR_03|GSM SIM808A Module|This module consists of a GPRS SMA Antenna, GSM SMA Bluetooth Antenna, GSM SMA Antenna. It helps in providing the call feature and SMS options from                               the module (SIM Card         included) to another mobile phone, depending upon the strength of the antenna use|
+|HLR_04|TCS3200|As the name suggests, it is used for the identification of color|
+|HLR_05|9V Battery with 2pc Connector|To provide the power supply for UV LED'S|
+|HLR_06|0.5W Speaker|To hear the Audio|
+|HLR_07|UV LEDs|For the identification of fake notes|
