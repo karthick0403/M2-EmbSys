@@ -1,6 +1,7 @@
 # CURRENCY NOTE DETECTION FOR BLIND PEOPLE USING UV LIGHT AND MICROCONTROLLER WITH THEFT ALERT
-
-
+<a href="https://app.codiga.io/public/user/github/karthick0403">
+   <img src="https://api.codiga.io/public/badge/user/github/karthick0403?style=light" alt="codiga badge" />
+</a>
 # Badeges
 |quality|grade|
 |--|--|
