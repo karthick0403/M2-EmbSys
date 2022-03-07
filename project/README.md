@@ -1,1 +1,5 @@
+# CURRENCY NOTE DETECTION FOR BLIND PEOPLE USING UV LIGHT AND MICROCONTROLLER WITH THEFT ALERT
 
+# Hardware simulation
+
+![WhatsApp Image 2022-03-07 at 2 57 35 PM](https://user-images.githubusercontent.com/98890597/157004745-48a51c1c-d848-4ae5-b669-8284f18f832f.jpeg)
