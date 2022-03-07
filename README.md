@@ -1,7 +1,10 @@
 # CURRENCY NOTE DETECTION FOR BLIND PEOPLE USING UV LIGHT AND MICROCONTROLLER WITH THEFT ALERT
 
+
 # Badeges
-![codiga](https://api.codiga.io/project/31643/score/svg)
+|quality|grade|
+|--|--|
+|![codiga](https://api.codiga.io/project/31643/score/svg)|![codiga](https://api.codiga.io/project/31643/status/svg)|
 
 
 | Folder Name | Contents |
