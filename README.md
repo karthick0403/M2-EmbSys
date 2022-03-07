@@ -8,7 +8,7 @@
    <img src="https://api.codiga.io/public/badge/user/github/karthick0403?style=light" alt="codiga badge" />
 </a>
 
-# Badeges
+# Badges
 
 |quality|grade|codacy|unit testing|cppcheck|cI|gitimspector|
 |--|--|--|--|--|--|--|
