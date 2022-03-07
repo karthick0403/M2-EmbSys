@@ -1,5 +1,9 @@
 # CURRENCY NOTE DETECTION FOR BLIND PEOPLE USING UV LIGHT AND MICROCONTROLLER WITH THEFT ALERT
 
+# Badeges
+![codiga](https://api.codiga.io/project/31643/score/svg)
+
+
 | Folder Name | Contents |
 |---|---|
 | CaseStudy | 2 Case studies README.md|
