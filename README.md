@@ -2,7 +2,9 @@
 <a href="https://app.codiga.io/public/user/github/karthick0403">
    <img src="https://api.codiga.io/public/badge/user/github/karthick0403?style=light" alt="codiga badge" />
 </a>
+
 # Badeges
+
 |quality|grade|
 |--|--|
 |![codiga](https://api.codiga.io/project/31643/score/svg)|![codiga](https://api.codiga.io/project/31643/status/svg)|
