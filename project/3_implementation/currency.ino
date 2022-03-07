@@ -1,3 +1,4 @@
+//The code for checking the difference in frequencies for a real and fake note is givenbelow
 #define s0 4
 #define s1 5
 #define s2 6
@@ -36,6 +37,8 @@ blue = pulseIn(sensorOut, LOW);
 Serial.println(red);
 Serial.println(green);
 Serial.println(blue);
+  
+//The entire code for the identification of a 10 rupee real and fake note with the audio output is given below
 #define s0 4
 #define s1 5
 #define s2 6
