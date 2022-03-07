@@ -1,6 +1,6 @@
 # CURRENCY NOTE DETECTION FOR BLIND PEOPLE USING UV LIGHT AND MICROCONTROLLER WITH THEFT ALERT
 # Youtube output link
-[![IMAGE ALT TEXT](https://github.com/karthick0403/M2-EmbSys/blob/main/Project/6_ImagesAndVideos/youtube.png)](https://youtu.be/2IQhoYMBPPk)
+[![IMAGE ALT TEXT](https://github.com/karthick0403/M2-EmbSys/blob/main/project/6_images%20and%20videos/youtube.png)](https://youtu.be/2IQhoYMBPPk)
 
 # Hardware simulation
 
