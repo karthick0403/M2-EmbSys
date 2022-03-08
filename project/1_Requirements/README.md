@@ -63,3 +63,6 @@ maintenance is very simple.
 
 # swot analysis
 ![Screenshot (8)](https://user-images.githubusercontent.com/98890597/157069214-9f2d02fe-b8ce-4171-a700-f499ce378307.png)
+
+# 4w's and 1 h
+![WhatsApp Image 2022-03-08 at 2 55 09 PM](https://user-images.githubusercontent.com/98890597/157219917-3aae3374-f710-434e-9a2c-06aeb25773ed.jpeg)
